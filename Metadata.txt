@@ -3,3 +3,4 @@ Resolution
 Channels
 Speed
 Buffering
+Description
