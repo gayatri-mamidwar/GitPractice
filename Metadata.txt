@@ -2,3 +2,4 @@ Captions
 Resolution
 Channels
 Speed
+Buffering
